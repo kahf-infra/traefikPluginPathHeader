@@ -1,4 +1,4 @@
-package pathHeader
+package traefikPluginPathHeader
 
 import (
 	"context"
