@@ -1,4 +1,4 @@
-name: "pathHeader"
+name: "traefikPluginPathHeader"
 displayName: "Path Header"
 description: "A middleware that sets the X-Forwarded-Path header from the request URL"
 type: "middleware"

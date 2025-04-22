@@ -1,11 +1,8 @@
 displayName: Traefik Plugin Path Header
 type: middleware
 iconPath: .assets/icon.png
-
-import: github.com/traefik/traefikPluginPathHeader
-
+import: github.com/kahf-infra/traefikPluginPathHeader
 summary: 'It adds http request path to header'
-
 testData:
   Headers:
     X-Demo: test
